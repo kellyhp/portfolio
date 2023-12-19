@@ -35,7 +35,7 @@ const Landing = ({setSelectedPage}) => {
                         viewport = {{once: true, amount: 0.5}}
                         transition = {{duration: 0.5}}
                         variants = {{
-                            hidden: {opactiy: 0, x: -250},
+                            hidden: {opactiy: 0, x: 0},
                             visible: {opacity: 1, x: 0}
                         }}
                     >
@@ -57,7 +57,7 @@ const Landing = ({setSelectedPage}) => {
                         viewport = {{once: true, amount: 0.5}}
                         transition = {{delay: 0.2, duration: 0.5}}
                         variants = {{
-                            hidden: {opactiy: 0, x: -50},
+                            hidden: {opactiy: 0, x: 0},
                             visible: {opacity: 1, x: 0}
                         }}
                     >
@@ -86,7 +86,7 @@ const Landing = ({setSelectedPage}) => {
                         viewport = {{once: true, amount: 0.5}}
                         transition = {{delay: 0.2, duration: 0.5}}
                         variants = {{
-                            hidden: {opactiy: 0, x: -250},
+                            hidden: {opactiy: 0, x: 0},
                             visible: {opacity: 1, x: 0}
                         }}
                     >
