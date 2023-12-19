@@ -24,6 +24,14 @@ function App() {
     return() => window.removeEventListener("scroll", handleScroll)
   }, []);
 
+  useEffect(() => {
+    const link = document.querySelector('link[rel="icon"]');
+
+    if (link) {
+      link.setAttribute('href', '../public/favicon.ico');
+    }
+  }, []);
+
   return (
     <div className="app bg-deep-blue">
       <Navbar 

@@ -80,12 +80,11 @@ const Projects = () => {
           <Project url="https://github.com/kellyhp/cookbook" title="Cookbook" text=" This project was is a react app of a cookbook website consisting of multiple cuisines w/ 
           recipies included. It is a front-end application that utilizes 'react-router-dom' for routing and reusuable cards."/>
           <Project url = "https://github.com/kellyhp/weather_app" title="Weather App" text=" This project is a react application of a weather app taken from https://openweathermap.org's API. 
-          It displays an image and search bar on the left hand side and the current forecast along with the upcoming day ahead on the right hand side. 
           This weather app uses React useState for state management, react-icons for styling, moment for parsing data objects, and environment variables."/>
-          <Project title="Boheme Redesign" text=" yuh"/>
-          <Project url = "https://devpost.com/software/smiskify?ref_content=my-projects-tab&ref_feature=my_projects" title="Spotify Personality Visualizer" text=" The web application uses the Spotify API to analyze your top songs of the last 6 months 
-          to determine what personality-based Smiski matches your music taste! Intaking the song attributes of your top listens, we assign you a Smiski based 
-          on your most defining feature from your music. It is our unique approach to building a data visualizer from Spotify."/>
+          <Project title="Boheme Redesign" text=" The thrift consignment store's web redesign aimed to boost exposure and user experience. The project included a clean, responsive design. 
+          Social media integration enhanced online marketing, creating a visually appealing and user-friendly website."/>
+          <Project url = "https://devpost.com/software/smiskify?ref_content=my-projects-tab&ref_feature=my_projects" title="Spotify Personality Visualizer" text=" The web application uses the 
+          Spotify API to analyze your top songs of the last 6 months to determine what personality-based Smiski matches your music taste!"/>
 
           {/* ROW 2 */}
           {/* <Project title="Project 4" text=" Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla

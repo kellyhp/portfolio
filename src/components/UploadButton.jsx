@@ -77,7 +77,7 @@ const UploadButton = () => {
           <motion.div variants={iconVariants}/>
           
 	          <div>
-              <a href={require("../assets/KellyPhan_Resume_2023.pdf")} download="myFile">my resume</a> </div>
+              <a DEFER href={require("../assets/KellyPhan_Resume_2024.pdf")} download="myFile">my resume</a> </div>
 	        </motion.div>
 	
 	        <motion.div 
