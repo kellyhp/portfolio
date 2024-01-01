@@ -85,6 +85,8 @@ const Projects = () => {
           Social media integration enhanced online marketing, creating a visually appealing and user-friendly website."/>
           <Project url = "https://devpost.com/software/smiskify?ref_content=my-projects-tab&ref_feature=my_projects" title="Spotify Personality Visualizer" text=" The web application uses the 
           Spotify API to analyze your top songs of the last 6 months to determine what personality-based Smiski matches your music taste!"/>
+          <Project url = "https://github.com/kellyhp/moment/tree/main" title="Film E-Commerce Website" text=" Modern e-commerce store, enhancing the shopping journey through features 
+          like interactive maps, mobile friendliness, and intuitive product/category pages."/>
 
           {/* ROW 2 */}
           {/* <Project title="Project 4" text=" Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla
